@@ -1,0 +1,1 @@
+Aw tar payroll: camera and photo library buttons for worker photo, national ID front/back, residence card front/back. Card images fitted to standard ratio without cutting edges. Data remains browser-local; back up regularly.
